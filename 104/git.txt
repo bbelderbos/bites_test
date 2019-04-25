@@ -1,0 +1,12 @@
+git clone https://github.com/bbelderbos/bites_test
+cd bites_test
+mkdir 104
+cd 104
+
+# code your solution
+
+git add .
+git commit -m "submission for bite 104"
+git push
+
+# head over to https://codechallenges/bites/104 and submit your code
